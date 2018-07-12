@@ -1,0 +1,17 @@
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\bin\Debug\Calculator.exe
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\bin\Debug\Calculator.pdb
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\bin\Debug\Calculator.exe.config
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\VSProjects\PolitiePDC\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

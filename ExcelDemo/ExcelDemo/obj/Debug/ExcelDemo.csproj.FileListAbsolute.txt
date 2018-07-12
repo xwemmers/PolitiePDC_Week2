@@ -1,0 +1,11 @@
+C:\VSProjects\PolitiePDC\ExcelDemo\ExcelDemo\bin\Debug\ExcelDemo.exe.config
+C:\VSProjects\PolitiePDC\ExcelDemo\ExcelDemo\bin\Debug\ExcelDemo.exe
+C:\VSProjects\PolitiePDC\ExcelDemo\ExcelDemo\bin\Debug\ExcelDemo.pdb
+C:\VSProjects\PolitiePDC\ExcelDemo\ExcelDemo\obj\Debug\ExcelDemo.csprojAssemblyReference.cache
+C:\VSProjects\PolitiePDC\ExcelDemo\ExcelDemo\obj\Debug\ExcelDemo.csproj.ResolveComReference.cache
+C:\VSProjects\PolitiePDC\ExcelDemo\ExcelDemo\obj\Debug\ExcelDemo.Form1.resources
+C:\VSProjects\PolitiePDC\ExcelDemo\ExcelDemo\obj\Debug\ExcelDemo.Properties.Resources.resources
+C:\VSProjects\PolitiePDC\ExcelDemo\ExcelDemo\obj\Debug\ExcelDemo.csproj.GenerateResource.cache
+C:\VSProjects\PolitiePDC\ExcelDemo\ExcelDemo\obj\Debug\ExcelDemo.csproj.CoreCompileInputs.cache
+C:\VSProjects\PolitiePDC\ExcelDemo\ExcelDemo\obj\Debug\ExcelDemo.exe
+C:\VSProjects\PolitiePDC\ExcelDemo\ExcelDemo\obj\Debug\ExcelDemo.pdb

@@ -1,0 +1,10 @@
+C:\VSProjects\PolitiePDC\GlasWater\GlasWater\bin\Debug\GlasWater.exe.config
+C:\VSProjects\PolitiePDC\GlasWater\GlasWater\bin\Debug\GlasWater.exe
+C:\VSProjects\PolitiePDC\GlasWater\GlasWater\bin\Debug\GlasWater.pdb
+C:\VSProjects\PolitiePDC\GlasWater\GlasWater\obj\Debug\GlasWater.csprojAssemblyReference.cache
+C:\VSProjects\PolitiePDC\GlasWater\GlasWater\obj\Debug\GlasWater.Form1.resources
+C:\VSProjects\PolitiePDC\GlasWater\GlasWater\obj\Debug\GlasWater.Properties.Resources.resources
+C:\VSProjects\PolitiePDC\GlasWater\GlasWater\obj\Debug\GlasWater.csproj.GenerateResource.cache
+C:\VSProjects\PolitiePDC\GlasWater\GlasWater\obj\Debug\GlasWater.csproj.CoreCompileInputs.cache
+C:\VSProjects\PolitiePDC\GlasWater\GlasWater\obj\Debug\GlasWater.exe
+C:\VSProjects\PolitiePDC\GlasWater\GlasWater\obj\Debug\GlasWater.pdb
